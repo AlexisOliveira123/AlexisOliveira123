@@ -8,20 +8,10 @@
 </div>
 <div style="display: inline_block"><br>
   
-### <h3> &nbsp;A little about myself</h3>
- 
-⌨️ I'm currently learning "HTML, CSS, JavaScrpit, PHP, Python, React.Js, Typescript e MyQSL
-<p align="left">
-
-📚 Knowledge in technical English and studying 
-<p align="left">
-</p>
 <br>
-<div style="display: inline_block" align="center">
 	
-	
-###  <p align="center">🧩|Skills</p>
-<p align="center" style="display: flex;">
+###  🧩|Skills
+
  
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
