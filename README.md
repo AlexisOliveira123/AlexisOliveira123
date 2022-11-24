@@ -15,8 +15,6 @@
   
 
 ###  📝📚| **Currently studying**</p>
-<p align="center" style="display: flex;">
-<div>
   
   <img align="center" alt="Alexis-Php" height="40" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Alexis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
