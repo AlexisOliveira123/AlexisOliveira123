@@ -7,14 +7,11 @@
 </div>
   
 <h3>  | &nbsp;A little about myself</h3>
-
-🖥️Studying Information System (Student of the 2° Semester, Unisul College)
-<p align="left">
-  
-⌨️I'm currently learning "HTML, CSS, JavaScrpit, PHP, Python, React.Js, Typescript e MyQSL
+ 
+⌨️ I'm currently learning "HTML, CSS, JavaScrpit, PHP, Python, React.Js, Typescript e MyQSL
 <p align="left">
 
-📚Knowledge in technical English and studying 
+📚 Knowledge in technical English and studying 
 <p align="left">
 </p>
 <br>
