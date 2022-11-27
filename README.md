@@ -7,14 +7,14 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisoliveira123&layout=compact&langs_count=7&theme=default"/>
 </div> 
 	
-###  🧩|Skills
+### 🧩|Skills
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
 
-###  📝📚| **Currently studying**</p>
+### 📚| **Currently studying**</p>
   
   <img align="center" alt="Alexis-Php" height="40" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Alexis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
